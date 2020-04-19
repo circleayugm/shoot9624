@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebd5603153cf20541b8d90c9b1effd80
+timeCreated: 1502142514
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atari Font Full Version
+  fontNames:
+  - Atari Font Full Version
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

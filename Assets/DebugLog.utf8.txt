@@ -1,0 +1,9 @@
+s9624 : 1/23/2018 7:30:56 AM : Start Application.
+
+s9624 : 1/23/2018 7:30:56 AM : boot.
+s9624 : 1/23/2018 7:30:56 AM : Application.platform=WindowsEditor
+s9624 : 1/23/2018 7:30:56 AM : Screen Resolution=(647,541)
+s9624 : 1/23/2018 7:30:56 AM : Application.dataPath= D:/develop/Unity/shoot9624/UnityProject/Shoot9624/Assets
+s9624 : 1/23/2018 7:30:56 AM : Application.persistentDataPath= C:/Users/UGM/AppData/LocalLow/Circle-AY_Info/Shoot9624
+s9624 : 1/23/2018 7:30:56 AM : Application.temporaryCachePath= C:/Users/UGM/AppData/Local/Temp/Circle-AY_Info/Shoot9624
+s9624 : 1/23/2018 7:30:56 AM : This File Location is ...D:/develop/Unity/shoot9624/UnityProject/Shoot9624/Assets/DebugLog.utf8.txt
